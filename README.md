@@ -16,8 +16,7 @@ Partidas
 
 
 
-# batalla_naval_python
-Batalla Naval 2.0
+# Batalla Naval 2.0
 El proposito de este proyecto es demostrar las habilidades adquiridas durante el Curso Python Inicial
 El juego cuenta con una jugabilidad sencilla y robusta
 Para la ejecucion del proyecto se ha aplicado:
