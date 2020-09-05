@@ -19,11 +19,10 @@ Partidas
 # Batalla Naval 2.0
 El proposito de este proyecto es demostrar las habilidades adquiridas durante el Curso Python Inicial \
 El juego cuenta con una jugabilidad sencilla y robusta \
-Para la ejecucion del proyecto se ha aplicado: \
+Para la ejecucion del proyecto se han aplicado: \
   -Bucles \
   -Condicionales \
   -Librerias(numpy, ernno, os, random) \
   -Lambdas expression \
   -Programacion Orientada a Objetos \
-  -Lambdas \
   -Compresion de Listas
